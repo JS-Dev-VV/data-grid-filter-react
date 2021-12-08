@@ -1,0 +1,28 @@
+.btn:hover {
+  border-bottom: 2px solid black;
+}
+
+.btn:active {
+  border-bottom: 2px solid black;
+}
+
+.input-btn {
+  border: none;
+  background-color: unset;
+  font-size: 16px;
+  font-weight: bold;
+  &:hover {
+    border-bottom: 2px solid black;
+  }
+}
+
+.cell-btn {
+  width: 150px !important;
+  p > span {
+    cursor: pointer;
+    background-color: lightgray;
+    padding: 0.35rem 1.5rem;
+    border-radius: 10px;
+    border: 1px solid gray;
+  }
+}

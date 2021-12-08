@@ -1,0 +1,1530 @@
+[
+  {
+    "no": "34",
+    "FL": [
+      {
+        "val": "CANDIDATEID",
+        "content": "45931000000700013"
+      },
+      {
+        "val": "Candidate ID",
+        "content": "DEF_CAND_814"
+      },
+      {
+        "val": "First Name",
+        "content": "Ayan"
+      },
+      {
+        "val": "Last Name",
+        "content": "Banerjee"
+      },
+      {
+        "val": "Email",
+        "content": "djain+ayan@kreeti.com"
+      },
+      {
+        "val": "Phone",
+        "content": "9830075737"
+      },
+      {
+        "val": "Skill Set",
+        "content": "English, Indian > Bengali, Indian > Hindi, Instagram, Managerial Skills > Staff Management, API, Apollo Software, Back End, CSS3, Front End, GraphQL, HTML5, JavaScript, Node.js, PostgreSQL, ReactJS, Redux, Servers, Social Media, Web Application Development"
+      },
+      {
+        "val": "Expected Salary",
+        "content": "0"
+      },
+      {
+        "val": "Current Salary",
+        "content": "0"
+      },
+      {
+        "val": "SMCREATORID",
+        "content": "45931000000515044"
+      },
+      {
+        "val": "Created By",
+        "content": "Khushi Gupta"
+      },
+      {
+        "val": "MODIFIEDBY",
+        "content": "45931000000324003"
+      },
+      {
+        "val": "Modified By",
+        "content": "Kaushiki Tewari"
+      },
+      {
+        "val": "Created Time",
+        "content": "2021-11-10 12:24:49"
+      },
+      {
+        "val": "Updated On",
+        "content": "2021-11-25 17:29:25"
+      },
+      {
+        "val": "Last Activity Time",
+        "content": "2021-11-25 17:29:25"
+      },
+      {
+        "val": "Last Mailed Time",
+        "content": "2021-11-11 18:41:25"
+      },
+      {
+        "val": "SMOWNERID",
+        "content": "45931000000515044"
+      },
+      {
+        "val": "Candidate Owner",
+        "content": "Khushi Gupta"
+      },
+      {
+        "val": "Source",
+        "content": "Vendor"
+      },
+      {
+        "val": "Is Locked",
+        "content": "false"
+      },
+      {
+        "val": "Is Unqualified",
+        "content": "false"
+      },
+      {
+        "val": "Is Attachment Present",
+        "content": "true"
+      },
+      {
+        "val": "Candidate Status",
+        "content": "Available"
+      },
+      {
+        "val": "Origin",
+        "content": "Sourced"
+      },
+      {
+        "val": "Agency",
+        "content": "Kreeti Technologies Pvt. Ltd."
+      },
+      {
+        "val": "Level",
+        "content": "SDE 2"
+      },
+      {
+        "val": "Objective",
+        "content": "Platform to give mock practice exams for Railways, JEE Advanced, Banking Exams etc.. after purchasing packages from Admisure.com"
+      },
+      {
+        "val": "Name",
+        "content": "Admisure-Online Examination portal"
+      },
+      {
+        "val": "Role",
+        "content": "Frontend Engineer"
+      },
+      {
+        "val": "Project Duration",
+        "content": "1 year"
+      },
+      {
+        "val": "Description",
+        "content": "It is an Online Examination Portal where students can give mock practice exams for Railways, JEE Advanced, Banking Exams etc.. after purchasing packages from Admisure.com\nThey can practice Quizzes as well, but these are free\n(https://admisure.com/)"
+      },
+      {
+        "val": "Technologies Used",
+        "content": "Frontend - React, Redux, Styled Components.\nBackend - Node, Express, MySql"
+      },
+      {
+        "val": "Contribution",
+        "content": "Build and Developed Fast and Scalable Web Pages for user to interact"
+      },
+      {
+        "val": "Notable Skills",
+        "content": "React, Redux, Context API, Styled Components, Nodejs, Express"
+      },
+      {
+        "val": "Highlights 1",
+        "content": "Engineered  end to end modern  applications with Javascript, React, Node, till deployment."
+      },
+      {
+        "val": "Highlights 3",
+        "content": "Optimized Applications  from scratch, made it fast, scalable and also increased SEO as per business needs."
+      },
+      {
+        "val": "Highlights 2",
+        "content": "Worked as a Frontend team lead and managed project architecture to meet client requirements"
+      },
+      {
+        "val": "Highlights 4",
+        "content": "Achieved certifications in React and Node."
+      },
+      {
+        "val": "Vendor Rate/Month",
+        "content": "1,80,000"
+      },
+      {
+        "val": "Profile Update",
+        "content": "Complete"
+      },
+      {
+        "val": "Public Profile Link",
+        "content": "https://resume.getdefault.in/c_id=45931000000700013"
+      },
+      {
+        "val": "Skipped Technical",
+        "content": "false"
+      }
+    ]
+  },
+  {
+    "no": "40",
+    "FL": [
+      {
+        "val": "CANDIDATEID",
+        "content": "45931000000694001"
+      },
+      {
+        "val": "Candidate ID",
+        "content": "DEF_CAND_809"
+      },
+      {
+        "val": "First Name",
+        "content": "Dibakar"
+      },
+      {
+        "val": "Last Name",
+        "content": "Mandal"
+      },
+      {
+        "val": "Email",
+        "content": "dmandal@innow8apps.com"
+      },
+      {
+        "val": "Experience in Years",
+        "content": "2"
+      },
+      {
+        "val": "Current Job Title",
+        "content": "Software Developer"
+      },
+      {
+        "val": "Skill Set",
+        "content": "English, Indian > Hindi, GitHub, HTML, JavaScript, REST API, React Native, ReactJS, Redux, Scrum Methodology, Version Control, XML, eCommerce, Agile Methodology, Bitbucket, Bootstrap, Cascading Style Sheets, Front End"
+      },
+      {
+        "val": "Expected Salary",
+        "content": "0"
+      },
+      {
+        "val": "Current Salary",
+        "content": "0"
+      },
+      {
+        "val": "SMCREATORID",
+        "content": "45931000000172474"
+      },
+      {
+        "val": "Created By",
+        "content": "Tejasvi Kashyap"
+      },
+      {
+        "val": "MODIFIEDBY",
+        "content": "45931000000515044"
+      },
+      {
+        "val": "Modified By",
+        "content": "Khushi Gupta"
+      },
+      {
+        "val": "Created Time",
+        "content": "2021-11-09 15:40:29"
+      },
+      {
+        "val": "Updated On",
+        "content": "2021-11-26 14:11:00"
+      },
+      {
+        "val": "Last Activity Time",
+        "content": "2021-11-26 14:11:00"
+      },
+      {
+        "val": "Last Mailed Time",
+        "content": "2021-11-10 13:05:25"
+      },
+      {
+        "val": "Associated any Social Profiles",
+        "content": "||||||||||||"
+      },
+      {
+        "val": "SMOWNERID",
+        "content": "45931000000172474"
+      },
+      {
+        "val": "Candidate Owner",
+        "content": "Tejasvi Kashyap"
+      },
+      {
+        "val": "Source",
+        "content": "Vendor"
+      },
+      {
+        "val": "Is Locked",
+        "content": "false"
+      },
+      {
+        "val": "Is Unqualified",
+        "content": "false"
+      },
+      {
+        "val": "Is Attachment Present",
+        "content": "false"
+      },
+      {
+        "val": "Candidate Status",
+        "content": "Available"
+      },
+      {
+        "val": "Origin",
+        "content": "Agency"
+      },
+      {
+        "val": "Price (in ₹) )",
+        "content": "1.2 L"
+      },
+      {
+        "val": "Level",
+        "content": "SDE 2"
+      },
+      {
+        "val": "Objective",
+        "content": "An app which helps in digital money transfer between two devices when they are in close proximity to each other."
+      },
+      {
+        "val": "Name",
+        "content": "TapTap"
+      },
+      {
+        "val": "Role",
+        "content": "Frontend Developer"
+      },
+      {
+        "val": "Project Duration",
+        "content": "6 months"
+      },
+      {
+        "val": "Description",
+        "content": "TapTap is a smartphone app which lets you send money to your friends and family. All the users have to do is add money to their digital wallet with debit/credit cards. When two devices come in close proximity the payment is requested and received with the help of BLE(Bluetooth Low Energy) technology making the transfer process secure and fast. Thus, reliability over a physical or cloud server is reduced while doing payments."
+      },
+      {
+        "val": "Technologies Used",
+        "content": "React Native, Redux, Saga, Typescript, React Navigation V5, Xcode and Android  Studio"
+      },
+      {
+        "val": "Contribution",
+        "content": "- Integrated(bridging) BLE modules to the native code\n- Wrote test cases for the payment module\n- Implemented payment module and historical transactions to the UI\n- Implemented Rest Apis and Google Analytics to track users behaviour"
+      },
+      {
+        "val": "Notable Skills",
+        "content": "React Native, React, Redux, Saga, Javascript, Android & iOS"
+      },
+      {
+        "val": "Highlights 1",
+        "content": "1.11 yrs of experience in developing native mobile apps with React Native"
+      },
+      {
+        "val": "Highlights 3",
+        "content": "Developed pixel perfect,smooth UIs across both Android and IOS devices with React Native"
+      },
+      {
+        "val": "Highlights 2",
+        "content": "Leading a team of 4+ junior developers across 2 different projects"
+      },
+      {
+        "val": "Highlights 4",
+        "content": "Leveraged native apis and fixed performance bottlenecks for apps"
+      },
+      {
+        "val": "Vendor Rate/Month",
+        "content": "1,20,000"
+      },
+      {
+        "val": "Profile Update",
+        "content": "Complete"
+      },
+      {
+        "val": "Public Profile Link",
+        "content": "https://resume.getdefault.in/c_id=45931000000694001"
+      },
+      {
+        "val": "Skipped Technical",
+        "content": "true"
+      }
+    ]
+  },
+  {
+    "no": "42",
+    "FL": [
+      {
+        "val": "CANDIDATEID",
+        "content": "45931000000690083"
+      },
+      {
+        "val": "Candidate ID",
+        "content": "DEF_CAND_811"
+      },
+      {
+        "val": "First Name",
+        "content": "Kushagra"
+      },
+      {
+        "val": "Last Name",
+        "content": "."
+      },
+      {
+        "val": "Email",
+        "content": "krunalbhalani+Kushagra@gmail.com"
+      },
+      {
+        "val": "Experience in Years",
+        "content": "8"
+      },
+      {
+        "val": "Current Employer",
+        "content": "Deesha Trade Endeavours"
+      },
+      {
+        "val": "Current Job Title",
+        "content": "Junior Reactjs Developer"
+      },
+      {
+        "val": "Skill Set",
+        "content": "JScript, Redux, MongoDB, RESTful, HTML5, ReactJS, Router, JavaScript, Node.js, Express.JS, Cascading Style Sheets, Middleware, JSON, HTML, Back End, C Programming Language, C++, Databases, Python Programming, SCSS"
+      },
+      {
+        "val": "Expected Salary",
+        "content": "0"
+      },
+      {
+        "val": "Current Salary",
+        "content": "0"
+      },
+      {
+        "val": "SMCREATORID",
+        "content": "45931000000324003"
+      },
+      {
+        "val": "Created By",
+        "content": "Kaushiki Tewari"
+      },
+      {
+        "val": "MODIFIEDBY",
+        "content": "45931000000515044"
+      },
+      {
+        "val": "Modified By",
+        "content": "Khushi Gupta"
+      },
+      {
+        "val": "Created Time",
+        "content": "2021-11-09 17:45:32"
+      },
+      {
+        "val": "Updated On",
+        "content": "2021-11-30 13:13:32"
+      },
+      {
+        "val": "Last Activity Time",
+        "content": "2021-11-30 13:13:32"
+      },
+      {
+        "val": "Last Mailed Time",
+        "content": "2021-11-11 11:30:27"
+      },
+      {
+        "val": "SMOWNERID",
+        "content": "45931000000324003"
+      },
+      {
+        "val": "Candidate Owner",
+        "content": "Kaushiki Tewari"
+      },
+      {
+        "val": "Source",
+        "content": "Imported by parser"
+      },
+      {
+        "val": "Is Locked",
+        "content": "false"
+      },
+      {
+        "val": "Is Unqualified",
+        "content": "false"
+      },
+      {
+        "val": "Is Attachment Present",
+        "content": "true"
+      },
+      {
+        "val": "Candidate Status",
+        "content": "Available"
+      },
+      {
+        "val": "Origin",
+        "content": "Sourced"
+      },
+      {
+        "val": "Agency",
+        "content": "Aventus"
+      },
+      {
+        "val": "Level",
+        "content": "SDE 3"
+      },
+      {
+        "val": "Objective",
+        "content": "Online library from where users can come and book the slots for him with an AI system integrated like redbus."
+      },
+      {
+        "val": "Name",
+        "content": "Odyssey"
+      },
+      {
+        "val": "Role",
+        "content": "Senior Front-End Developer"
+      },
+      {
+        "val": "Project Duration",
+        "content": "1 year"
+      },
+      {
+        "val": "Description",
+        "content": "-Had to conclude our daily Ticket as per assigned.\n- Building pages and components\n- Building Functionalities.\n- Making UI bug free and Smoother.\n- Writing Quality code With Reusable Components.\n- Created HOC component.\n- Use of global state management tools like Redux.\n- Created generator function for calling API with saga using AXIOS.\n- Implemented google Auth functions provided by firebase API.\n- Making of tools by making changes in Existing library code.\n- Placing hotspot in image like change scene , Video , Images, Audio."
+      },
+      {
+        "val": "Technologies Used",
+        "content": "React JS, JavaScript, Typescript, HTML, CSS, AXIOS, Google Analytics, firebase, google auth and Redux saga."
+      },
+      {
+        "val": "Contribution",
+        "content": "- Making UI.\n- API Integration.\n- Making 3D Image Tool with Many Functionalities Like Switching scenes and placing comments in the 3D library."
+      },
+      {
+        "val": "Notable Skills",
+        "content": "REACTJS, NEXTJS, TypeScript, SASS, JavaScript, CSS, HTML, LESS, AJAX, Redux thunk/saga, GSAP, Gatsby, firebase and vercel."
+      },
+      {
+        "val": "Highlights 1",
+        "content": "Worked with Multiple React Projects."
+      },
+      {
+        "val": "Highlights 3",
+        "content": "Worked closely with the manager to understand project requirements and implemented based on their requirements."
+      },
+      {
+        "val": "Highlights 2",
+        "content": "Worked as a team player and involved in design decisions."
+      },
+      {
+        "val": "Highlights 4",
+        "content": "Get involved in project architecture  decisions and work on projects which started from scratch."
+      },
+      {
+        "val": "Vendor Rate/Month",
+        "content": "1,77,280"
+      },
+      {
+        "val": "Profile Update",
+        "content": "Complete"
+      },
+      {
+        "val": "Public Profile Link",
+        "content": "https://resume.getdefault.in/c_id=45931000000690083"
+      },
+      {
+        "val": "Skipped Technical",
+        "content": "true"
+      }
+    ]
+  },
+  {
+    "no": "47",
+    "FL": [
+      {
+        "val": "CANDIDATEID",
+        "content": "45931000000410069"
+      },
+      {
+        "val": "Candidate ID",
+        "content": "DEF_CAND_298"
+      },
+      {
+        "val": "Last Name",
+        "content": "Sonal Sharma"
+      },
+      {
+        "val": "Email",
+        "content": "sonal.sharma@unyscape.com"
+      },
+      {
+        "val": "Experience in Years",
+        "content": "5"
+      },
+      {
+        "val": "Current Job Title",
+        "content": "Android Developer"
+      },
+      {
+        "val": "Skill Set",
+        "content": "Integration Testing, Delegation Skills, Problem Solving, Working Independently, API, Android, Continuous Integration, GitHub, Google Maps, Java, Kotlin, Microsoft Excel, Microsoft PowerPoint, Microsoft Word, Mobile Applications, SDLC"
+      },
+      {
+        "val": "Expected Salary",
+        "content": "0"
+      },
+      {
+        "val": "Current Salary",
+        "content": "0"
+      },
+      {
+        "val": "SMCREATORID",
+        "content": "45931000000172474"
+      },
+      {
+        "val": "Created By",
+        "content": "Tejasvi Kashyap"
+      },
+      {
+        "val": "MODIFIEDBY",
+        "content": "45931000000515044"
+      },
+      {
+        "val": "Modified By",
+        "content": "Khushi Gupta"
+      },
+      {
+        "val": "Created Time",
+        "content": "2021-09-27 12:25:04"
+      },
+      {
+        "val": "Updated On",
+        "content": "2021-11-29 17:02:34"
+      },
+      {
+        "val": "Last Activity Time",
+        "content": "2021-11-29 17:02:34"
+      },
+      {
+        "val": "Last Mailed Time",
+        "content": "2021-10-05 18:06:24"
+      },
+      {
+        "val": "Associated any Social Profiles",
+        "content": "||||||||||||"
+      },
+      {
+        "val": "SMOWNERID",
+        "content": "45931000000172007"
+      },
+      {
+        "val": "Candidate Owner",
+        "content": "Akshit Rungta"
+      },
+      {
+        "val": "Source",
+        "content": "Vendor"
+      },
+      {
+        "val": "Is Locked",
+        "content": "false"
+      },
+      {
+        "val": "Is Unqualified",
+        "content": "false"
+      },
+      {
+        "val": "Is Attachment Present",
+        "content": "false"
+      },
+      {
+        "val": "Candidate Status",
+        "content": "Available"
+      },
+      {
+        "val": "Origin",
+        "content": "Agency"
+      },
+      {
+        "val": "Price (in ₹) )",
+        "content": "225000"
+      },
+      {
+        "val": "Level",
+        "content": "SDE 2"
+      },
+      {
+        "val": "Objective",
+        "content": "To promote customer services and / or products by zimbamboum celebrities."
+      },
+      {
+        "val": "Name",
+        "content": "Zimbamboum"
+      },
+      {
+        "val": "Role",
+        "content": "Android Developer"
+      },
+      {
+        "val": "Project Duration",
+        "content": "1+ year"
+      },
+      {
+        "val": "Description",
+        "content": "Zimbamboum was thus born and brings together celebrities in different fields who offer personalized videos to their fans or to companies. Receive personalized messages from your favorite celebrities."
+      },
+      {
+        "val": "Technologies Used",
+        "content": "kotlin"
+      },
+      {
+        "val": "Contribution",
+        "content": "UI Designing, Bug Resolving, Coding testing"
+      },
+      {
+        "val": "Notable Skills",
+        "content": "Java, Kotlin"
+      },
+      {
+        "val": "Highlights 1",
+        "content": "Learnt UI Designing"
+      },
+      {
+        "val": "Highlights 3",
+        "content": "Unit Testing"
+      },
+      {
+        "val": "Highlights 2",
+        "content": "Efficient Bug Resolving"
+      },
+      {
+        "val": "Highlights 4",
+        "content": "Handson Payment Gateway Integration"
+      },
+      {
+        "val": "Vendor Rate/Month",
+        "content": "1,80,000"
+      },
+      {
+        "val": "Profile Update",
+        "content": "Draft"
+      },
+      {
+        "val": "Public Profile Link",
+        "content": "https://resume.getdefault.in/c_id=45931000000410069"
+      },
+      {
+        "val": "Skipped Technical",
+        "content": "false"
+      }
+    ]
+  },
+  {
+    "no": "84",
+    "FL": [
+      {
+        "val": "CANDIDATEID",
+        "content": "45931000000370179"
+      },
+      {
+        "val": "Candidate ID",
+        "content": "DEF_CAND_256"
+      },
+      {
+        "val": "First Name",
+        "content": "VinasKumar"
+      },
+      {
+        "val": "Last Name",
+        "content": "D"
+      },
+      {
+        "val": "Email",
+        "content": "vinaskumar.dharsandiya@bacancy.com"
+      },
+      {
+        "val": "Mobile",
+        "content": "7698595922"
+      },
+      {
+        "val": "Experience in Years",
+        "content": "3"
+      },
+      {
+        "val": "Skill Set",
+        "content": "Apache WEB Server, Back End, Bootstrap, Cascading Style Sheets, Debugging, Docker, Eclipse IDE, Front End, Full Stack, HTML, IBM OS/2, JSON, Java, Java Server Pages, JavaScript, Microservices, Microsoft Visual Studio, Oracle, Oracle PL/SQL, Spring Boot"
+      },
+      {
+        "val": "Expected Salary",
+        "content": "0"
+      },
+      {
+        "val": "Current Salary",
+        "content": "0"
+      },
+      {
+        "val": "SMCREATORID",
+        "content": "45931000000172474"
+      },
+      {
+        "val": "Created By",
+        "content": "Tejasvi Kashyap"
+      },
+      {
+        "val": "MODIFIEDBY",
+        "content": "45931000000515044"
+      },
+      {
+        "val": "Modified By",
+        "content": "Khushi Gupta"
+      },
+      {
+        "val": "Created Time",
+        "content": "2021-09-20 16:01:17"
+      },
+      {
+        "val": "Updated On",
+        "content": "2021-12-01 14:46:12"
+      },
+      {
+        "val": "Last Activity Time",
+        "content": "2021-12-01 14:46:12"
+      },
+      {
+        "val": "Last Mailed Time",
+        "content": "2021-10-05 17:35:14"
+      },
+      {
+        "val": "Associated any Social Profiles",
+        "content": "||||||||||||"
+      },
+      {
+        "val": "SMOWNERID",
+        "content": "45931000000172255"
+      },
+      {
+        "val": "Candidate Owner",
+        "content": "Sukriti Kumari"
+      },
+      {
+        "val": "Source",
+        "content": "Vendor"
+      },
+      {
+        "val": "Rating",
+        "content": "3"
+      },
+      {
+        "val": "Is Locked",
+        "content": "false"
+      },
+      {
+        "val": "Is Unqualified",
+        "content": "false"
+      },
+      {
+        "val": "Is Attachment Present",
+        "content": "false"
+      },
+      {
+        "val": "Candidate Status",
+        "content": "Available"
+      },
+      {
+        "val": "Origin",
+        "content": "Agency"
+      },
+      {
+        "val": "Price (in ₹) )",
+        "content": "-"
+      },
+      {
+        "val": "Level",
+        "content": "SDE 2"
+      },
+      {
+        "val": "Objective",
+        "content": "Deliver client centric outcomes on timely manner. Design and develop robust performance oriented application"
+      },
+      {
+        "val": "Name",
+        "content": "Cisco Pricing Quoting Tool"
+      },
+      {
+        "val": "Role",
+        "content": "Client communication 3 days per week to understand and analyze complex pricing logic. Writing reusable PL/SQL Procedures and function based on business logic. Ensure fail safe and performance oriented cron run time. Break down complex pricing logic."
+      },
+      {
+        "val": "Project Duration",
+        "content": "3 Year"
+      },
+      {
+        "val": "Description",
+        "content": "The project is pricing and quoting tool developed specially for cisco employees which are managing sales for various cisco products and services where they can create and edit quotes. \nCreated quote can be finalized, submitted, and approved by respective user. System triggers automated emails on certain events. System has five major tools and various user base for each tool."
+      },
+      {
+        "val": "Technologies Used",
+        "content": "Java, Spring Boot, Spring MVC, JSP, jQuery, AJAX, Datatables, HTML, CSS, Oracle Database, PL/SQL, Apache POI, Apache PDFBOX, OpenShift, Jenkins, Maven, and others"
+      },
+      {
+        "val": "Contribution",
+        "content": "Corrected the security loopholes, Designed and developed daily alerting service"
+      },
+      {
+        "val": "Notable Skills",
+        "content": "Java, JavaEE, Spring Framework, JavaScript, jQuery, Maven, Docker, OpenShift, SQL, Oracle PL/SQL"
+      },
+      {
+        "val": "Highlights 1",
+        "content": "I have 3+ years of experience in analysis, design, development, testing and maintaining enterprise application."
+      },
+      {
+        "val": "Highlights 3",
+        "content": "Solutions are based on robust java stack including Spring Framework, Oracle Database,  HTML5, CSS3 etc. while leveraging the open-source technologies like jQuery, Bootstrap"
+      },
+      {
+        "val": "Highlights 2",
+        "content": "Experience with all stages of the development cycle."
+      },
+      {
+        "val": "Highlights 4",
+        "content": "I have experience in CI/CD fast delivery and agile development paradigm."
+      },
+      {
+        "val": "Vendor Rate/Month",
+        "content": "2,05,000"
+      },
+      {
+        "val": "Profile Update",
+        "content": "Draft"
+      },
+      {
+        "val": "Skipped Technical",
+        "content": "false"
+      }
+    ]
+  },
+  {
+    "no": "76",
+    "FL": [
+      {
+        "val": "CANDIDATEID",
+        "content": "45931000000242134"
+      },
+      {
+        "val": "Candidate ID",
+        "content": "DEF_CAND_144"
+      },
+      {
+        "val": "First Name",
+        "content": "Avishkar"
+      },
+      {
+        "val": "Last Name",
+        "content": "Panwar"
+      },
+      {
+        "val": "Email",
+        "content": "avishkarp007@gmail.com"
+      },
+      {
+        "val": "Mobile",
+        "content": "80069 44466"
+      },
+      {
+        "val": "Current Employer",
+        "content": "Posist Lite"
+      },
+      {
+        "val": "Skill Set",
+        "content": "Android"
+      },
+      {
+        "val": "Expected Salary",
+        "content": "0"
+      },
+      {
+        "val": "Current Salary",
+        "content": "0"
+      },
+      {
+        "val": "Additional Info",
+        "content": "Basics are clear. Data communication and background processing knowledge is good. Has some experience with DI and MVVM as well. \nLibraries/Frameworks: 7\nCommunication: 7\nOpen Source: \nSystem Design: No\nLeadership: No\nUnit Testing: No"
+      },
+      {
+        "val": "SMCREATORID",
+        "content": "45931000000172474"
+      },
+      {
+        "val": "Created By",
+        "content": "Tejasvi Kashyap"
+      },
+      {
+        "val": "MODIFIEDBY",
+        "content": "45931000000515044"
+      },
+      {
+        "val": "Modified By",
+        "content": "Khushi Gupta"
+      },
+      {
+        "val": "Created Time",
+        "content": "2021-08-19 15:17:29"
+      },
+      {
+        "val": "Updated On",
+        "content": "2021-11-26 16:29:32"
+      },
+      {
+        "val": "Last Activity Time",
+        "content": "2021-11-26 16:29:32"
+      },
+      {
+        "val": "SMOWNERID",
+        "content": "45931000000172474"
+      },
+      {
+        "val": "Candidate Owner",
+        "content": "Tejasvi Kashyap"
+      },
+      {
+        "val": "Source",
+        "content": "Vendor"
+      },
+      {
+        "val": "Is Locked",
+        "content": "false"
+      },
+      {
+        "val": "Is Unqualified",
+        "content": "false"
+      },
+      {
+        "val": "Is Attachment Present",
+        "content": "false"
+      },
+      {
+        "val": "Candidate Status",
+        "content": "Available"
+      },
+      {
+        "val": "Origin",
+        "content": "Sourced"
+      },
+      {
+        "val": "Resume Link",
+        "content": "https://drive.google.com/file/d/1HDwoMXGOtuT-bwCAcY9TM7_CpzKS0hvG/view?usp=sharing"
+      },
+      {
+        "val": "Price (in ₹) )",
+        "content": "1040"
+      },
+      {
+        "val": "Expertise level",
+        "content": "Higher medium"
+      },
+      {
+        "val": "Skill Score",
+        "content": "6"
+      },
+      {
+        "val": "Agency",
+        "content": "Cumulations"
+      },
+      {
+        "val": "Level",
+        "content": "SDE 2"
+      },
+      {
+        "val": "Objective",
+        "content": "Application to help drivers to get all the required info of the orders assigned to them."
+      },
+      {
+        "val": "Name",
+        "content": "BarbequeNation Driver App"
+      },
+      {
+        "val": "Role",
+        "content": "Android Developer"
+      },
+      {
+        "val": "Project Duration",
+        "content": "6 months"
+      },
+      {
+        "val": "Description",
+        "content": "This app will be used by BBQ Nation delivery partners which will help them to pick up food from the assigned restaurants and deliver at the customer’s location. This app accesses their location in the background to assign tasks based on location. It also lets them see the route from their location to pickup and delivery locations, they can use QR Code to mark\nCoroutines for async calls\nDagger2 for dependency injection\nMVVM design Pattern"
+      },
+      {
+        "val": "Technologies Used",
+        "content": "Kotlin, Retrofit, Dagger2, Google Maps, Zxing library for QR code reading, Push Notifications"
+      },
+      {
+        "val": "Team Structure",
+        "content": "He worked on this project from scratch."
+      },
+      {
+        "val": "Contribution",
+        "content": "He was responsible for initializing the app with the architecture pattern (MVVM), DI, Data Binding etc and then working on top of these things to implement required functionalities."
+      },
+      {
+        "val": "Notable Skills",
+        "content": "Java, Kotlin, Android, Flutter Basics"
+      },
+      {
+        "val": "Highlights 1",
+        "content": "Worked on CDOne Laundry & Dry Cleaning App -This app lets you schedule laundry pickup, delivery locations and their timing after successful registration and also lets you pay by adding your card."
+      },
+      {
+        "val": "Highlights 3",
+        "content": "Worked on Barbeque Nation delivery app with highest quality and critical timelines. BBQN had to get their delivery apps live."
+      },
+      {
+        "val": "Highlights 2",
+        "content": "Dependency Injection with Dagger2 and initializing projects with it"
+      },
+      {
+        "val": "Highlights 4",
+        "content": "Learned and delivered Flutter apps"
+      },
+      {
+        "val": "Vendor Rate/Month",
+        "content": "1,65000 plus GST"
+      },
+      {
+        "val": "Status",
+        "content": "Deployed by Us"
+      },
+      {
+        "val": "Expertise",
+        "content": "Android"
+      },
+      {
+        "val": "ID Proof Number",
+        "content": "4547 4468 1611"
+      },
+      {
+        "val": "ID Proof Link",
+        "content": "https://drive.google.com/file/d/1l6hyYc32mnGHt53VxmT3agCCb4PnYtOs/view?usp=sharing"
+      },
+      {
+        "val": "Validated by",
+        "content": "Rishabh Jain"
+      },
+      {
+        "val": "Est. Month Deployed Till",
+        "content": "Will be available from October 2nd week 2021"
+      },
+      {
+        "val": "Profile Update",
+        "content": "Complete"
+      },
+      {
+        "val": "Public Profile Link",
+        "content": "https://resume.getdefault.in/c_id=45931000000242134"
+      },
+      {
+        "val": "Skipped Technical",
+        "content": "false"
+      }
+    ]
+  },
+  {
+    "no": "82",
+    "FL": [
+      {
+        "val": "CANDIDATEID",
+        "content": "45931000000242128"
+      },
+      {
+        "val": "Candidate ID",
+        "content": "DEF_CAND_138"
+      },
+      {
+        "val": "Last Name",
+        "content": "Aman Aggarwal"
+      },
+      {
+        "val": "Email",
+        "content": "aman.agarwal@unyscape.com"
+      },
+      {
+        "val": "Current Employer",
+        "content": "Will be available from 2nd week of August 2021"
+      },
+      {
+        "val": "Skill Set",
+        "content": "Android"
+      },
+      {
+        "val": "Expected Salary",
+        "content": "0"
+      },
+      {
+        "val": "Current Salary",
+        "content": "0"
+      },
+      {
+        "val": "Additional Info",
+        "content": "Basics are clear. Has knowledge of Rx and DI. Hasn't worked with coroutines but can quickly pick it up.\nLibraries/Frameworks: 7\nCommunication: 7\nOpen Source: No\nSystem Design: No\nLeadership: Yes\nUnit Testing: No"
+      },
+      {
+        "val": "SMCREATORID",
+        "content": "45931000000172474"
+      },
+      {
+        "val": "Created By",
+        "content": "Tejasvi Kashyap"
+      },
+      {
+        "val": "MODIFIEDBY",
+        "content": "45931000000515044"
+      },
+      {
+        "val": "Modified By",
+        "content": "Khushi Gupta"
+      },
+      {
+        "val": "Created Time",
+        "content": "2021-08-19 15:17:29"
+      },
+      {
+        "val": "Updated On",
+        "content": "2021-11-26 16:35:05"
+      },
+      {
+        "val": "Last Activity Time",
+        "content": "2021-11-26 16:35:05"
+      },
+      {
+        "val": "SMOWNERID",
+        "content": "45931000000172474"
+      },
+      {
+        "val": "Candidate Owner",
+        "content": "Tejasvi Kashyap"
+      },
+      {
+        "val": "Source",
+        "content": "Vendor"
+      },
+      {
+        "val": "Is Locked",
+        "content": "false"
+      },
+      {
+        "val": "Is Unqualified",
+        "content": "false"
+      },
+      {
+        "val": "Is Attachment Present",
+        "content": "false"
+      },
+      {
+        "val": "Candidate Status",
+        "content": "Available"
+      },
+      {
+        "val": "Origin",
+        "content": "Sourced"
+      },
+      {
+        "val": "Resume Link",
+        "content": "https://drive.google.com/file/d/1YmLFa2Bi4u2SAdB23MGzHFj1TPZe3iaW/view?usp=sharing"
+      },
+      {
+        "val": "Price (in ₹) )",
+        "content": "1485"
+      },
+      {
+        "val": "Expertise level",
+        "content": "Higher medium"
+      },
+      {
+        "val": "Skill Score",
+        "content": "6"
+      },
+      {
+        "val": "Agency",
+        "content": "Unyscape"
+      },
+      {
+        "val": "Name",
+        "content": "Virtual Diamond Boutique VDB"
+      },
+      {
+        "val": "Role",
+        "content": "Android Developer"
+      },
+      {
+        "val": "Description",
+        "content": "● Virtually selling diamonds, gemstones, jewellery and\n\ndiamonds manufactured in lab\n● 50+ Filters option for every product listed above\n● User can even do an auction for a particular item\n● Multi- vendor app distributed to various clients as per their\nrequirement"
+      },
+      {
+        "val": "Technologies Used",
+        "content": "Core Java, Rx Java, Retrofit, Firebase Analytics, Deep-Link, Github\nRoom DB, Dagger2, Custom Views,MVC,MVVM"
+      },
+      {
+        "val": "Notable Skills",
+        "content": "Core Java, Kotlin, Rx Java, Google Maps API, Instant App\nDevelopment, In App Purchases, MVVM, MVC"
+      },
+      {
+        "val": "Vendor Rate/Month",
+        "content": "1,89,600"
+      },
+      {
+        "val": "Status",
+        "content": "Available"
+      },
+      {
+        "val": "Expertise",
+        "content": "Android"
+      },
+      {
+        "val": "ID Proof Number",
+        "content": "2346 4829 5905"
+      },
+      {
+        "val": "ID Proof Link",
+        "content": "https://drive.google.com/file/d/13khPyt2VonO9ASaFQmdxY7lxweLZci_q/view?usp=sharing"
+      },
+      {
+        "val": "Validated by",
+        "content": "Rishabh Jain"
+      },
+      {
+        "val": "Profile Update",
+        "content": "Draft"
+      },
+      {
+        "val": "Skipped Technical",
+        "content": "false"
+      }
+    ]
+  },
+  {
+    "no": "85",
+    "FL": [
+      {
+        "val": "CANDIDATEID",
+        "content": "45931000000242125"
+      },
+      {
+        "val": "Candidate ID",
+        "content": "DEF_CAND_135"
+      },
+      {
+        "val": "Last Name",
+        "content": "Divyanshu Sharma"
+      },
+      {
+        "val": "Email",
+        "content": "divyanshusharma@bonamisoftware.com"
+      },
+      {
+        "val": "Mobile",
+        "content": "9060772552"
+      },
+      {
+        "val": "Current Employer",
+        "content": "0"
+      },
+      {
+        "val": "Skill Set",
+        "content": "Python/Django"
+      },
+      {
+        "val": "Expected Salary",
+        "content": "0"
+      },
+      {
+        "val": "Current Salary",
+        "content": "0"
+      },
+      {
+        "val": "Additional Info",
+        "content": "Can be asked to lead projects end to end but he is a CTO at his current firm and there is a concern if he would be available in an individual capacity\r\nLibraries/Frameworks: 10\r\nCommunication: 9\r\nOpen Source: Not asked\r\nSystem Design: Yes\r\nLeadership: Yes\r\nUnit Testing: Yes"
+      },
+      {
+        "val": "SMCREATORID",
+        "content": "45931000000172474"
+      },
+      {
+        "val": "Created By",
+        "content": "Tejasvi Kashyap"
+      },
+      {
+        "val": "MODIFIEDBY",
+        "content": "45931000000515044"
+      },
+      {
+        "val": "Modified By",
+        "content": "Khushi Gupta"
+      },
+      {
+        "val": "Created Time",
+        "content": "2021-08-19 15:17:29"
+      },
+      {
+        "val": "Updated On",
+        "content": "2021-11-25 18:52:50"
+      },
+      {
+        "val": "Last Activity Time",
+        "content": "2021-11-25 18:52:50"
+      },
+      {
+        "val": "SMOWNERID",
+        "content": "45931000000172474"
+      },
+      {
+        "val": "Candidate Owner",
+        "content": "Tejasvi Kashyap"
+      },
+      {
+        "val": "Source",
+        "content": "Vendor"
+      },
+      {
+        "val": "Is Locked",
+        "content": "false"
+      },
+      {
+        "val": "Is Unqualified",
+        "content": "false"
+      },
+      {
+        "val": "Is Attachment Present",
+        "content": "false"
+      },
+      {
+        "val": "Candidate Status",
+        "content": "Available"
+      },
+      {
+        "val": "Origin",
+        "content": "Sourced"
+      },
+      {
+        "val": "Resume Link",
+        "content": "https://docs.google.com/document/d/1HIuO8pAQkouZ9U5mEZUTA8YdYlRM4Wc9NF1Mf8a9Pgw/edit#heading=h.ka6ri9cf558"
+      },
+      {
+        "val": "Price (in ₹) )",
+        "content": "1339"
+      },
+      {
+        "val": "Expertise level",
+        "content": "Senior"
+      },
+      {
+        "val": "Skill Score",
+        "content": "10"
+      },
+      {
+        "val": "Agency",
+        "content": "Bonami software Pvt Ltd."
+      },
+      {
+        "val": "Level",
+        "content": "SDE 3"
+      },
+      {
+        "val": "Objective",
+        "content": "To create a multipurpose CRM"
+      },
+      {
+        "val": "Name",
+        "content": "BANT"
+      },
+      {
+        "val": "Role",
+        "content": "Python Developer"
+      },
+      {
+        "val": "Project Duration",
+        "content": "2 Years"
+      },
+      {
+        "val": "Description",
+        "content": "•Social Media Sign In/Sign-upintegration on Web and Mobile App •Developed  REST APIsfor  Room  booking,  Order  Page,  Invoice,  Profile, \r\nSearch, etc •Payment Gateway integration•Sentry integration •Code review, API documentation, Database modelling •Sentry and New Relicintegration•CI/CD setup using Jenkins"
+      },
+      {
+        "val": "Technologies Used",
+        "content": "Python, Django, Flask, Celery, Redis, Postgres, Heroku, GraphQL"
+      },
+      {
+        "val": "Contribution",
+        "content": "Planned, wrote, and debugged web applications with complete accuracy.\r\n• Maximized applications efficiency, data quality, scope, operability, and\r\nflexibility.\r\n• Used various ideas from distributed computing, large-scale design, realtime data processing, data storage, ML, and AI to solve challenging\r\ndataset problems."
+      },
+      {
+        "val": "Notable Skills",
+        "content": "Python, Django, Flask, MongoDB, Lambda, Docker, AWS"
+      },
+      {
+        "val": "Highlights 1",
+        "content": "To work in Flexible & Versatile to adapt to any new environment."
+      },
+      {
+        "val": "Highlights 3",
+        "content": "Talented individual with in-depth knowledge of development tools and coding languages.\""
+      },
+      {
+        "val": "Highlights 2",
+        "content": "Apply my knowledge, technical and logical skills which would enable me to grow while fulfilling organizational goals"
+      },
+      {
+        "val": "Highlights 4",
+        "content": "Contribute to overall success of organization."
+      },
+      {
+        "val": "Vendor Rate/Month",
+        "content": "2,14,240"
+      },
+      {
+        "val": "Status",
+        "content": "Available"
+      },
+      {
+        "val": "Expertise",
+        "content": "Python/Django"
+      },
+      {
+        "val": "ID Proof Number",
+        "content": "5636 7162 1386"
+      },
+      {
+        "val": "ID Proof Link",
+        "content": "https://drive.google.com/file/d/10ve5oaCvi_loNNCYCBVAOrTwNe92Ll-V/view?usp=sharing"
+      },
+      {
+        "val": "Validated by",
+        "content": "Varun Jain"
+      },
+      {
+        "val": "Est. Month Deployed Till",
+        "content": "Follow up done on 24th Aug."
+      },
+      {
+        "val": "Profile Update",
+        "content": "Complete"
+      },
+      {
+        "val": "Public Profile Link",
+        "content": "https://resume.getdefault.in/candidate/id/resume/45931000000242125"
+      },
+      {
+        "val": "Skipped Technical",
+        "content": "false"
+      }
+    ]
+  }
+]
