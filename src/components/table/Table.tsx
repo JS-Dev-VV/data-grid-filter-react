@@ -1,9 +1,7 @@
-import React from "react";
-import { AgGridColumn, AgGridReact } from "ag-grid-react";
+import { AgGridReact } from "ag-grid-react";
 import "ag-grid-community/dist/styles/ag-grid.css";
 import "ag-grid-community/dist/styles/ag-theme-alpine.css";
-import { useEffect, useState } from "react";
-import { SearchContext } from "../../contexts/searchContext";
+import React, { useEffect, useState } from "react";
 import HighlightCellRenderer from "../highlight/HighlightCellRenderer";
 import ButtonRenderer from "../button-renderer/ButtonRenderer";
 
@@ -18,9 +16,7 @@ import ButtonRenderer from "../button-renderer/ButtonRenderer";
 // }
 
 const TableComp = ({ data }: any) => {
-  const sContext = React.useContext(SearchContext);
   const [devList, setDevList] = useState<any>();
-  const [colNames, setColNames] = useState<any>([]);
 
   const defaultColDef = {
     flex: 1,
@@ -37,6 +33,7 @@ const TableComp = ({ data }: any) => {
       field: "name",
       minWidth: 175,
       maxWidth: 250,
+      cellRenderer: "highlightCellRenderer",
     },
     {
       headerName: "Resume",
@@ -50,17 +47,20 @@ const TableComp = ({ data }: any) => {
       field: "level",
       minWidth: 150,
       maxWidth: 150,
+      cellRenderer: "highlightCellRenderer",
     },
     {
       headerName: "Notable Skills",
       field: "skills",
       minWidth: 175,
+      cellRenderer: "highlightCellRenderer",
     },
     {
       headerName: "Status",
       field: "status",
       minWidth: 150,
       maxWidth: 200,
+      cellRenderer: "highlightCellRenderer",
     },
   ];
 
@@ -100,32 +100,30 @@ const TableComp = ({ data }: any) => {
 
   return (
     <>
-      <SearchContext.Provider value={{ searchString: "divyanshu" }}>
-        <div>
-          <div className="ag-theme-alpine h-90vh">
-            <AgGridReact
-              columnDefs={columnDefs}
-              rowData={devList}
-              suppressMenuHide={true}
-              unSortIcon={true}
-              suppressRowClickSelection={true}
-              defaultColDef={defaultColDef}
-              frameworkComponents={{
-                buttonRenderer: ButtonRenderer,
-                highlightCellRenderer: HighlightCellRenderer,
-              }}
-              animateRows={true}
-              pagination={true}
-              paginationPageSize={1000}
-              overlayLoadingTemplate={
-                '<span class="" style="color: black;">Please wait while your data is loading...</span>'
-              }
-            ></AgGridReact>
-          </div>
+      <div>
+        <div className="ag-theme-alpine h-90vh">
+          <AgGridReact
+            columnDefs={columnDefs}
+            rowData={devList}
+            suppressMenuHide={true}
+            unSortIcon={true}
+            suppressRowClickSelection={true}
+            defaultColDef={defaultColDef}
+            frameworkComponents={{
+              buttonRenderer: ButtonRenderer,
+              highlightCellRenderer: HighlightCellRenderer,
+            }}
+            animateRows={true}
+            pagination={true}
+            paginationPageSize={1000}
+            overlayLoadingTemplate={
+              '<span class="" style="color: black;">Please wait while your data is loading...</span>'
+            }
+          ></AgGridReact>
         </div>
-      </SearchContext.Provider>
+      </div>
     </>
   );
 };
 
-export default TableComp;
+export default React.memo(TableComp);

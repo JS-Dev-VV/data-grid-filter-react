@@ -7,6 +7,7 @@ const Header = () => {
             <img
               src="https://uploads-ssl.webflow.com/6123bc7954851522336e876e/6123be80051bfea06e5b391b_Logo_Black_White_BG_cropped.png"
               className="w-20 ml-5rem"
+              alt="logo"
             />
           </div>
           <div className="w-50 text-right px-2rem">

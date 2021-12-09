@@ -20,7 +20,7 @@ const HighlightCellRenderer = (props: any) => {
     } else {
       const searchStringObj = Object.keys(filterObj)
         .filter(function (k) {
-          return k.indexOf("condition") == 0;
+          return k.indexOf("condition") === 0;
         })
         .reduce(function (newData: any, k) {
           newData[k] = filterObj[k].filter;
@@ -62,4 +62,4 @@ const HighlightCellRenderer = (props: any) => {
   return value;
 };
 
-export default HighlightCellRenderer;
+export default React.memo(HighlightCellRenderer);

@@ -1,8 +1,8 @@
-import { useEffect, useState } from "react";
-import Stub from "../../stub.json";
+import React, { useEffect, useState } from "react";
 import TableComp from "../table/Table";
 
 const ListComp = () => {
+  console.log('list')
   const [list, setList] = useState();
 
   useEffect(() => {
@@ -23,4 +23,4 @@ const ListComp = () => {
   );
 };
 
-export default ListComp;
+export default React.memo(ListComp);

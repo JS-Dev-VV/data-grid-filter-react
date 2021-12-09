@@ -1,3 +1,5 @@
+import React from "react";
+
 const ButtonRenderer = ({ value }: any) => {
   const handleClick = () => {
     console.log(value);
@@ -15,10 +17,10 @@ const ButtonRenderer = ({ value }: any) => {
           handleClick();
         }}
       >
-        <span>Click</span>
+        <span>View</span>
       </p>
     </div>
   );
 };
 
-export default ButtonRenderer;
+export default React.memo(ButtonRenderer);

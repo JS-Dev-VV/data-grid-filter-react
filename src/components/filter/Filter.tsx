@@ -1,21 +1,28 @@
 import React from "react";
 import { useForm, SubmitHandler } from "react-hook-form";
-import { SearchContext } from "../../contexts/searchContext";
 
 type Inputs = {
-  highlightWord: string;
+  searchWord: string;
 };
 
-const Filter = () => {
-  const sContext = React.useContext(SearchContext);
+const Filter = ({ handler }: any) => {
+  console.log("filter");
   const {
     register,
     handleSubmit,
     watch,
     formState: { errors },
   } = useForm<Inputs>();
-  const onSubmit: SubmitHandler<Inputs> = (data) => console.log(data);
-  watch("highlightWord");
+  const onSubmit: SubmitHandler<Inputs> = (data) => {
+    console.log(data);
+  };
+
+  React.useEffect(() => {
+    const subscription = watch((value, { name, type }) => {
+      handler(value.searchWord);
+    });
+    return () => subscription.unsubscribe();
+  }, [watch]);
 
   return (
     <>
@@ -24,29 +31,27 @@ const Filter = () => {
           <h1 className="fw-bold btn">Filters</h1>
         </div>
 
-        {true && (
-          <div className="m-1rem">
-            <form onSubmit={handleSubmit(onSubmit)}>
-              <div className="mb-1rem">
-                <label className="fw-bold btn">Search Word:</label>
-                <input
-                  className="w-100 btn"
-                  placeholder="Search..."
-                  {...register("highlightWord", { required: true })}
-                />
-                {errors.highlightWord && (
-                  <span className="c-red">This field is required</span>
-                )}
-              </div>
-              <div className="text-right">
+        <div className="m-1rem">
+          <form onSubmit={handleSubmit(onSubmit)}>
+            <div className="mb-1rem">
+              <label className="fw-bold btn">Search Word:</label>
+              <input
+                className="w-100 btn"
+                placeholder="Search..."
+                {...register("searchWord", { required: true })}
+              />
+              {errors.searchWord && (
+                <span className="c-red">This field is required</span>
+              )}
+            </div>
+            {/* <div className="text-right">
                 <input className="input-btn" type="submit" />
-              </div>
-            </form>
-          </div>
-        )}
+              </div> */}
+          </form>
+        </div>
       </section>
     </>
   );
 };
 
-export default Filter;
+export default React.memo(Filter);

@@ -1,4 +1,4 @@
-import { Suspense, lazy } from "react";
+import React, { Suspense, lazy, useState, useCallback } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./styles/Global.scss";
 import "./styles/Style.scss";
@@ -8,9 +8,12 @@ import FallBackComp from "./components/fallback/Fallback";
 import Header from "./components/header/Header";
 import Filter from "./components/filter/Filter";
 import { ToastContainer } from "react-toastify";
+import { SearchContext } from "./contexts/searchContext";
+import debounce from "lodash.debounce";
 
 const App = () => {
   const ListComp = lazy(() => import("./components/list/List"));
+  const [searchWord, setSearchWord] = useState("");
 
   const routes = [
     {
@@ -19,6 +22,15 @@ const App = () => {
       component: <ListComp />,
     },
   ];
+
+  const debouncedSave = useCallback(
+    debounce((nextValue) => setSearchWord(nextValue), 500),
+    []
+  );
+
+  const handleChange = (value: any) => {
+    debouncedSave(value);
+  };
 
   return (
     <ErrorBoundary>
@@ -40,26 +52,27 @@ const App = () => {
 
         <div className="d-flex w-100 my-05rem">
           <div className="w-15 mx-05rem shadow-464646 br-5px">
-            <Filter />
+            <Filter handler={(value: any) => handleChange(value)} />
           </div>
-
-          <div className="w-85 mx-05rem shadow-464646 br-5px">
-            <Router>
-              <Routes>
-                {routes.map((item) => (
-                  <Route
-                    key={item.key}
-                    path={item.path}
-                    element={item.component}
-                  ></Route>
-                ))}
-              </Routes>
-            </Router>
-          </div>
+          <SearchContext.Provider value={{ searchString: searchWord }}>
+            <div className="w-85 mx-05rem shadow-464646 br-5px">
+              <Router>
+                <Routes>
+                  {routes.map((item) => (
+                    <Route
+                      key={item.key}
+                      path={item.path}
+                      element={item.component}
+                    ></Route>
+                  ))}
+                </Routes>
+              </Router>
+            </div>
+          </SearchContext.Provider>
         </div>
       </Suspense>
     </ErrorBoundary>
   );
 };
 
-export default App;
+export default React.memo(App);
