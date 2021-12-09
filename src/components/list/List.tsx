@@ -1,24 +1,15 @@
-import React, { useEffect, useState } from "react";
+import React, { useContext, useState } from "react";
+import { ListContext } from "../../contexts/listContext";
 import TableComp from "../table/Table";
 
 const ListComp = () => {
-  console.log('list')
-  const [list, setList] = useState();
-
-  useEffect(() => {
-    const url = `${process.env.REACT_APP_ALL_DEV_URI}`;
-
-    async function fetchData(url: string) {
-      const data = await fetch(url);
-      const res = await data.json();
-      setList(res);
-    }
-    fetchData(url);
-  }, []);
+  const listContext = useContext(ListContext);
 
   return (
     <>
-      <section>{list && <TableComp data={list || []} />}</section>
+      <section>
+        <TableComp data={listContext.list} />
+      </section>
     </>
   );
 };
